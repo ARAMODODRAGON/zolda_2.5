@@ -10,3 +10,6 @@ maxsp = 2;
 input_h = 0;
 input_v = 0;
 //input_attack = 0;
+
+
+randomize();

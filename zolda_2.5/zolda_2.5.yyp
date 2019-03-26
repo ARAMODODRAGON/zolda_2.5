@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "227f1239-7ab4-4f09-973f-7e9b0d5b4078",
+            "Value": {
+                "id": "1b7d8154-4f7d-4e99-b08d-4403e71e5166",
+                "resourcePath": "views\\227f1239-7ab4-4f09-973f-7e9b0d5b4078.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d2f669a-57ba-4488-8ce1-3f30e7967d9f",
+            "Value": {
+                "id": "460559ef-0c5d-4f4a-b637-a156daddc186",
+                "resourcePath": "objects\\oFire\\oFire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2f921165-7250-4e52-b74e-a4b2782a227c",
             "Value": {
                 "id": "10febfaa-5128-487e-a0b8-de21a196ad73",
@@ -92,6 +108,30 @@
                 "id": "6c5d79f8-8d3c-467e-bed4-1480ff83b67c",
                 "resourcePath": "sprites\\sCollider\\sCollider.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "45381b6b-dc34-4d7d-bd37-44e2e9258cca",
+            "Value": {
+                "id": "3d0df599-5110-4b31-a1d3-c731e5c4a975",
+                "resourcePath": "sprites\\sFire\\sFire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b76a3d2-d875-455d-8686-49d3a7ca6979",
+            "Value": {
+                "id": "50e2ad56-6afc-478a-be0e-39c55d17ceb6",
+                "resourcePath": "views\\4b76a3d2-d875-455d-8686-49d3a7ca6979.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4d12fea0-f0e0-4419-a205-dce145389dfd",
+            "Value": {
+                "id": "ff09323f-80aa-4a23-9ee1-a2893c0cac1d",
+                "resourcePath": "objects\\oLog\\oLog.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -183,6 +223,14 @@
             }
         },
         {
+            "Key": "bb37fa37-6da8-43d7-8bc1-9051ac28e307",
+            "Value": {
+                "id": "23c23900-ee3b-49b9-8f30-0a6fb61eb9dd",
+                "resourcePath": "objects\\oFlamable\\oFlamable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bf62ebc4-b809-477e-9ec1-e2ac12ef4647",
             "Value": {
                 "id": "00ac31dd-4d42-4cee-8002-eab98b0cb86a",
@@ -212,6 +260,14 @@
                 "id": "1093e8b9-a80e-4a02-87a0-2ec065eff397",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d9e470cc-86d7-4608-ba3b-528567f8f28e",
+            "Value": {
+                "id": "b3b0a6dc-3836-4b8c-b1c5-07ee06da8dfb",
+                "resourcePath": "views\\d9e470cc-86d7-4608-ba3b-528567f8f28e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
