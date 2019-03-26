@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "86526c3d-7102-4e20-8e47-5bf714b743b8",
+            "Value": {
+                "id": "3df5eccb-4039-45ab-a91e-a2071024b248",
+                "resourcePath": "shaders\\shButt\\shButt.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "89fd5762-1402-49a8-bfaf-a3e600a385f2",
             "Value": {
                 "id": "03dd14b0-bd86-4684-ae65-14b6f8680d82",
