@@ -4,7 +4,7 @@
 hsp = 0;
 vsp = 0;
 
-maxsp = 4;
+maxsp = 2;
 
 //Input
 input_h = 0;
